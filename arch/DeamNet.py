@@ -99,7 +99,7 @@ class Decoding_block2(nn.Module):
             modules_body.append(ConvLayer(base_filter, base_filter, 3, stride=1))
         modules_body.append(ConvLayer(base_filter, base_filter, 3, stride=1))
         self.body = nn.Sequential(*modules_body)
-
+ 
     def forward(self, x, y):
         x = self.upsample(x, y)
         for i in range(self.n_convblock):
