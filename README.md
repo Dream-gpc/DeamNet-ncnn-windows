@@ -1,6 +1,6 @@
 # DeamNet-ncnn-windows
 This is an unofficial simple implementation of DeamNet based on ncnn.  
-这是非官方基于ncnn的DeamNet方法的简单实现。
+这是基于ncnn的DeamNet方法的非官方简单实现。
 
 ## 环境准备
 * Visual studio 2019/2022  
