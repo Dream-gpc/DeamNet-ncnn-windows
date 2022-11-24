@@ -62,4 +62,4 @@
   
 
 ## License
-MIT © Dream-gpc
+[MIT © Dream-gpc](https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/LICENSE)
