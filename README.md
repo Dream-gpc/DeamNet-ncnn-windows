@@ -22,8 +22,8 @@ This is an unofficial simple implementation of DeamNet based on ncnn.
 
 | Input | Pytorch | ncnn |
 | --- | --- | --- |
-|  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/imtest/noiseimg1.png" width="300px">   | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg1.png" width="300px"> | --- | 
-|  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/imtest/noiseimg2.png" width="300px"> | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg2.png" width="300px"> | --- | 
+|  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/imtest/noiseimg1.png" width="300px">   | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg1.png" width="300px"> | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg1-ncnn.png" width="300px"> | 
+|  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/imtest/noiseimg2.png" width="300px"> | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg2.png" width="300px"> |  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg2-ncnn.png" width="300px"> | 
 
 
 ### 彩色图
