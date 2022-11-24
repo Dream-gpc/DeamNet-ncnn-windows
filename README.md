@@ -18,6 +18,8 @@ This is an unofficial simple implementation of DeamNet based on ncnn.
 
 ### 灰度图
 
+* Gray 25:  
+
 | Input | Pytorch | ncnn |
 | --- | --- | --- |
 |  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/imtest/noiseimg1.png" width="300px">   | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg1.png" width="300px"> | --- | 
