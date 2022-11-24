@@ -1,6 +1,6 @@
 # DeamNet-ncnn-windows
-This is an unofficial simple implementation of DeamNet based on ncnn.  
-这是基于ncnn的DeamNet方法的非官方简单实现。
+* This is an unofficial simple implementation of DeamNet based on ncnn.  
+* 这是基于ncnn的DeamNet方法的非官方简单实现。
 
 * [官方pytorch项目](https://github.com/chaoren88/DeamNet)
 * [ncnn yes!](https://github.com/Tencent/ncnn)
