@@ -6,9 +6,9 @@
 * [ncnn yes!](https://github.com/Tencent/ncnn)
 
 ## 环境准备
-* Visual studio 2019/2022  
+* Visual Studio 2019/2022  
 * NCNN 你可以在此处[下载](https://github.com/Tencent/ncnn/releases)预编译版本  
-* Opencv 4.6.0  
+* OpenCV 4.6.0  
 
 
 ## 使用方式
