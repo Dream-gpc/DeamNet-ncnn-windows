@@ -5,19 +5,19 @@
 * [官方pytorch项目](https://github.com/chaoren88/DeamNet)
 * [ncnn yes!](https://github.com/Tencent/ncnn)
 
-## 环境准备
+## Environment
 * Visual Studio 2019/2022  
 * NCNN 你可以在此处[下载](https://github.com/Tencent/ncnn/releases)预编译版本  
 * OpenCV 4.6.0  
 
 
-## 使用方式
+## Usage
 编译成功后使用以下命令即可  
 
 `./<xxx.exe>  <image-path>` 
 
 
-## 结果
+## Result
 
 ### 灰度图
 
