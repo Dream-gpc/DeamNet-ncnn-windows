@@ -54,8 +54,8 @@ This is an unofficial simple implementation of DeamNet based on ncnn.
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},  
     month     = {June},  
     year      = {2021},  
-    pages     = {8596-8606}  
-}
+    pages     = {8596-8606}
+    }
   
 
 
