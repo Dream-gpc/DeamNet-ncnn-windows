@@ -37,7 +37,7 @@ This is an unofficial simple implementation of DeamNet based on ncnn.
 
 在AMD Ryzen 5 5600G上进行测试  
 
-* 上级没给我配卡！:sob: 5555！仅在Gray25上测试run time！
+* 上级没给我配卡！:sob: 5555！仅在Gray25上测试running time！
 
 | 分辨率 | CPU | 核显+vulkan | 独显+vulkan:sob:|
 | :---: | :---: | :---: | :---: | 
