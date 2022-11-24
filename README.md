@@ -2,9 +2,12 @@
 This is an unofficial simple implementation of DeamNet based on ncnn.  
 这是基于ncnn的DeamNet方法的非官方简单实现。
 
+* [官方pytorch项目](https://github.com/chaoren88/DeamNet)
+* [ncnn yes!](https://github.com/Tencent/ncnn)
+
 ## 环境准备
 * Visual studio 2019/2022  
-* NCNN 你可以在此处[下载](https://github.com/Tencent/ncnn/releases)ncnn预编译版本  
+* NCNN 你可以在此处[下载](https://github.com/Tencent/ncnn/releases)预编译版本  
 * Opencv 4.6.0  
 
 
@@ -58,6 +61,5 @@ This is an unofficial simple implementation of DeamNet based on ncnn.
     }
   
 
-
-
-修订中:relaxed:………………………………
+## License
+MIT © Dream-gpc
