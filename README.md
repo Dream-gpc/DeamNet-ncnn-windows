@@ -33,7 +33,7 @@ This is an unofficial simple implementation of DeamNet based on ncnn.
 |  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/imtest/cnoiseimg1.jpg" width="300px">   | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/cdenoiseimg1.jpg" width="300px"> | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/cdenoiseimg1-ncnn.png" width="300px"> | 
 
 
-## Runtime
+## Running time
 
 在AMD Ryzen 5 5600G上进行测试  
 
@@ -44,6 +44,20 @@ This is an unofficial simple implementation of DeamNet based on ncnn.
 | 256x256 (Gray) | 4.63±s | 1.80±s | ?? | 
 | 512x512 (Gray)| 18.35±s |3.72±s | ?? | 
 | 1200x1600 (Gray)| Run failed | 24.41±s | ?? | 
+
+## Citation
+
+> 
+    @InProceedings{Ren_2021_CVPR,  
+    author    = {Ren, Chao and He, Xiaohai and Wang, Chuncheng and Zhao, Zhibo}, 
+    title     = {Adaptive Consistency Prior Based Deep Network for Image Denoising},  
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},  
+    month     = {June},  
+    year      = {2021},  
+    pages     = {8596-8606}  
+}
+  
+
 
 
 修订中:relaxed:………………………………
