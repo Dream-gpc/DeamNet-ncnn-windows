@@ -38,9 +38,9 @@
 
 ## Running time
 
-在AMD Ryzen 5 5600G上进行测试  
-
-* 上级没给我配卡！:sob: 5555！仅在Gray25上测试running time！
+* 在AMD Ryzen 5 5600G上进行测试  
+* 仅在Gray25上测试running time！
+* 上级没给我配卡！:sob: 5555！
 
 | 分辨率 | CPU | 核显+vulkan | 独显+vulkan:sob:|
 | :---: | :---: | :---: | :---: | 
