@@ -18,6 +18,10 @@ This is an unofficial simple implementation of DeamNet based on ncnn.
 
 ### 灰度图
 
+| Input | Pytorch | ncnn |
+| --- | --- | --- |
+|  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/tree/main/noiseimg1.jpg" width="150px">   | --- | --- | 
+|  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/tree/main/noiseimg2.jpg" width="150px"> | --- | --- | 
 
 
 ### 彩色图
